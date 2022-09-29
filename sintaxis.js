@@ -6,7 +6,7 @@ let libro = {
     titulo: 'El Principito',
     autor: 'Antoine de Saint-Exupéry',
     url:'https://www.casadellibro.com/libro-el-principito/9788478887194/795940',
-    fecha: 2
+    fecha: new Date (1943, 3, 6)
 }
 
 let dev = (false)
